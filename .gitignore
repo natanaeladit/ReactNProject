@@ -24,6 +24,8 @@ project.xcworkspace
 
 # Android/IntelliJ
 #
+keystore/
+android/app/petaflop.keystore
 build/
 .idea
 .gradle
